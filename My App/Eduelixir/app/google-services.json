@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242120725097",
+    "firebase_url": "https://eduelixir-a5255.firebaseio.com",
+    "project_id": "eduelixir-a5255",
+    "storage_bucket": "eduelixir-a5255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242120725097:android:196fcf1d96148530",
+        "android_client_info": {
+          "package_name": "com.eduelixir.eduelixir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242120725097-lvl6sj1fqgag7socfb5971rih5nkacat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduelixir.eduelixir",
+            "certificate_hash": "705D3D0BC9450B4E4A0960D2540CD34D567AC074"
+          }
+        },
+        {
+          "client_id": "242120725097-cqh9sc3uhidtisqi1hrdqgslgm21c83k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1uQFo-JMBfim4axQASFjfyrJ-8APw90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242120725097-cqh9sc3uhidtisqi1hrdqgslgm21c83k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

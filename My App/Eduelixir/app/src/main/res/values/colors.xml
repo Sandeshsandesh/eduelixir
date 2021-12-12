@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryDark">#3498DB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="global_color_primary_light">#ffff</color>
+    <color name="global_color_green_primary">#4caf50</color>
+    <color name="global_color_green_primary_light">#c8e6c9</color>
+    <color name="global_color_green_primary_dark">#388e3c</color>
+    <color name="global_color_green_accent">#ffc107</color>
+    <color name="global_color_green_control_activated">#ffc107</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#6D6E6F</color>
+</resources>

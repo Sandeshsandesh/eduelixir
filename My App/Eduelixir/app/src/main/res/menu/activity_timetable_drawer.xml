@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:title="@string/navDashboard"
+            android:icon="?android:attr/actionModePasteDrawable" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/attendance"
+            android:title="@string/navAttendance" />
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@drawable/timetable"
+            android:title="@string/navTime" />
+        <item
+            android:id="@+id/nav_exam"
+            android:icon="@drawable/exam"
+            android:title="@string/navExam" />
+        <item
+            android:id="@+id/nav_results"
+            android:icon="@drawable/results"
+            android:title="@string/navResults" />
+        <item
+            android:id="@+id/nav_fees"
+            android:icon="@drawable/results"
+            android:title="@string/navFees" />
+
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/results"
+            android:title="@string/navLibrary" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/results"
+            android:title="@string/navWallet" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/results"
+            android:title="@string/navNotification" />
+        <item
+            android:id="@+id/nav_assignments"
+            android:icon="@drawable/results"
+            android:title="@string/navAssignments" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/results"
+            android:title="@string/navNotes" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/results"
+            android:title="@string/navChat" />
+    </group>
+
+</menu>

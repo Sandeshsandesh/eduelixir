@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EduElixir</string>
+    <string name="welcome"><b>Welcome</b></string>
+    <string name="username"><b>Username</b></string>
+    <string name="password"><b>Password</b></string>
+    <string name="loginButton">LOGIN</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_lang">ಕನ್ನಡ</string>
+    <string name="action_info">About</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_notification">Notification</string>
+    <string name="notification"><i>No Notifications</i></string>
+    <string name="dashSchool">School</string>
+    <string name="dashClass">Class</string>
+    <string name="dashUsn">USN</string>
+    <string name="dashTeacher">Faher</string>
+    <string name="dashFirstName">First Name</string>
+    <string name="dashLastName">Last Name</string>
+
+    <string name="dashAlerts"><b>NEWS ALERTS</b></string>
+    <string name="dashNotification"><i>No new messages....!</i></string>
+    <string name="dashboard"><b>dashboard</b></string>
+    <string name="navAttendance">Attendance</string>
+    <string name="navDashboard">Dashboard</string>
+    <string name="navTime">Time Table</string>
+    <string name="navExam">Examination</string>
+    <string name="navResults">Results</string>
+    <string name="attendanceStatus"><b>Your ward has attended 126 classes out of 300 classes</b></string>
+    <string name="title_activity_attendance2">Attendance</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_timetable">Timetable</string>
+    <string name="showPassword"><b>Show</b></string>
+    <string name="navFees">Fees</string>
+    <string name="navLibrary">Library</string>
+    <string name="navWallet">Wallet</string>
+    <string name="navNotification">Notification</string>
+    <string name="navAssignments">Assignments</string>
+    <string name="navNotes">Notes</string>
+    <string name="navChat">Chat</string>
+    <string name="dashAddress">Address</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="change_password">Change Password</string>
+    <string name="dashDob">Date Of Birth</string>
+    <string name="dashSection">Section</string>
+    <string name="dashDoa">Date Of Admission</string>
+    <string name="GuardianInformation">Guardian Information</string>
+    <string name="dashGuardianName">Name</string>
+    <string name="dashGuardianOccupation">Occupation</string>
+    <string name="dashGuardianLandline">Land-Line</string>
+    <string name="dashGuardianMobile">Mobile</string>
+    <string name="dashCity">City</string>
+    <string name="dashState">State</string>
+    <string name="dashZipCode">Zip Code</string>
+    <string name="dashCountry">Country</string>
+    <string name="ttMon">Mon</string>
+    <string name="ttTime">Time</string>
+    <string name="ttTue">Tue</string>
+    <string name="ttWed">Wed</string>
+    <string name="ttThu">Thu</string>
+    <string name="ttFri">Fri</string>
+    <string name="ttSat">Sat</string>
+    <string name="title_activity_notification">Notifications</string>
+
+    <string name="FCM_PREF">com.eduelixir.eduelixir.fcm_pref</string>
+    <string name="FCM_TOKEN">com.eduelixir.eduelixir.fcm_token</string>
+
+</resources>
